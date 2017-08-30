@@ -3,10 +3,6 @@ We want YOU for Java Development
 This repository is meant to be a launch point for Javascript developers who want
 to get into Java development.
 
-##### Table of Contents
-<a name="Why Java?"/>
-
-
 ## Why Java?
 Java has been one of the most popular languages for large scale
 enterprise solutions for a very long time. The JDK (the environment where Java
@@ -19,7 +15,7 @@ closer to being fluent in another.
 
 Java is a very different language from Javascript. It is meant to solve a different
 set of problems, so the environment that you work will potentially feel unfamiliar.
-On top of that, Java absolutely *revolves* around OOP concepts. There are core
+On top of that, Java absolutely revolves around OOP concepts. There are core
 ideas that are going to feel unfamiliar to you in the beginning and I want you
 to know that it's OK if you read something and don't understand it right
 away. Java is complicated and it's impressive that you are trying to learn it.
@@ -32,8 +28,9 @@ find an entry-level tutorial, maybe watch a video and find an open source projec
 to cruise through. The entry-level tutorial will teach you syntax, the videos will
 teach you how domain experts talk about their language and the open source project
 will give you a real world example of the language. Don't get hung up on meticulously
-remembering everything you come across; consume the material and move on to the next thing.
-The more context that you have the easier it will be to figure out what's important to know.
+remembering everything you come across; consume the material and move on to the
+next thing. The more context that you have the easier it will be to figure out
+what's important to know now and what you can worry about later.
 
 ### Online Resources
 Princeton Tutorial http://introcs.cs.princeton.edu/java/home/
@@ -63,3 +60,39 @@ on functional programming in Java. Modules can be organized by several metrics
 including difficulty and estimated time to completion.
 
 ### Open Source Projects
+
+
+### Libraries and Frameworks
+
+Spring https://spring.io/
+> Spring is a web framework for Java. Spring is an absolutely massive, opinionated
+piece of software that is in use all over the world, and for good reason. Spring
+can make your life as a web developer very easy if you know what you are doing.
+The first technology I learned after getting my bearings with the Java language
+was Spring. If you walk into a job interview and say, "I graduated from a Javascript
+bootcamp but I want to do Java. Here is an app that I wrote in Spring Boot." You
+will be taken seriously. 
+
+### Tools
+
+IntelliJ Community Edition https://www.jetbrains.com/idea/download/
+> IntelliJ is by far the most popular IDE for Java development, and probably
+JDK development as a whole. Here is an article telling you why:
+https://dzone.com/articles/why-idea-better-eclipse There are so many advantages
+to picking IntelliJ over Eclipse, particularly for a student coming out of Prime.
+It is made by JetBrains, the same company behind Webstorm and PyCharm (which are
+both just trimmed down and specialized versions of IntelliJ) so any knowledge
+you have of those will transfer. It has market share, which means that there are
+more stack overflow questions and resources to look at if you have trouble.
+Just pick IntelliJ.
+
+Eclipse https://eclipse.org/ide/
+> If you know 100% that you are going to be doing OSGi development at your next
+job and have decided to work there anyway, I would briefly consider getting Eclipse
+and then get IntelliJ anyway.
+
+Gradle https://gradle.org/
+> Gradle is the build tool of choice for Java. It is the successor to Maven.
+Learning Maven or Gradle will probably be one of your first tasks upon getting
+hired somewhere; until then, just memorize those names and continue on your
+learning adventure.
