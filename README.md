@@ -3,13 +3,19 @@ We want YOU for Java Development
 This repository is meant to be a launch point for Javascript developers who want
 to get into Java development.
 
+##### Table of Contents
+<a name="Why Java?"/>
+
+
 ## Why Java?
 Java has been one of the most popular languages for large scale
 enterprise solutions for a very long time. The JDK (the environment where Java
 code gets run) is very mature that comes with a lot of powerful tools. Java
 code can execute on any machine that has Java installed and it is also the
 de facto language for writing Android apps. Good Java developers are eternally
-in demand and can be paid very well.
+in demand and can be paid very well. In addition, libraries and tools are often
+shared between languages on the JDK. Learning one language brings you that much
+closer to being fluent in another.
 
 Java is a very different language from Javascript. It is meant to solve a different
 set of problems, so the environment that you work will potentially feel unfamiliar.
@@ -47,7 +53,7 @@ Udemy Course https://www.udemy.com/java-tutorial/
 > Udemy is dope. I have not personally taken this course but I have taken other
 Java courses and I've always enjoyed them. Udemy is potentially not free but the
 content that you get is worth it in my opinion. The first few courses are free, I
-would recommend giving them a shot and seeing if you jive with their style. 
+would recommend giving them a shot and seeing if you jive with their style.
 
 Treehouse https://teamtreehouse.com/library/topic:java
 > Treehouse is a collection of courses and small, consumable modules that vary
