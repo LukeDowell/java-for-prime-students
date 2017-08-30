@@ -6,7 +6,7 @@ to get into Java development.
 ## Why Java?
 Java has been one of the most popular languages for large scale
 enterprise solutions for a very long time. The JDK (the environment where Java
-code gets run) is very mature that comes with a lot of powerful tools. Java
+code gets run) is very mature and it comes with a lot of powerful tools. Java
 code can execute on any machine that has Java installed and it is also the
 de facto language for writing Android apps. Good Java developers are eternally
 in demand and can be paid very well. In addition, libraries and tools are often
@@ -14,7 +14,7 @@ shared between languages on the JDK. Learning one language brings you that much
 closer to being fluent in another.
 
 Java is a very different language from Javascript. It is meant to solve a different
-set of problems, so the environment that you work will potentially feel unfamiliar.
+set of problems which can make it feel unfamiliar and intimidating to Javascript programmers.
 On top of that, Java absolutely revolves around OOP concepts. There are core
 ideas that are going to feel unfamiliar to you in the beginning and I want you
 to know that it's OK if you read something and don't understand it right
@@ -71,7 +71,7 @@ can make your life as a web developer very easy if you know what you are doing.
 The first technology I learned after getting my bearings with the Java language
 was Spring. If you walk into a job interview and say, "I graduated from a Javascript
 bootcamp but I want to do Java. Here is an app that I wrote in Spring Boot." You
-will be taken seriously. 
+will be taken seriously.
 
 ### Tools
 
